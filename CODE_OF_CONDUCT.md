@@ -1,75 +1,51 @@
-# Contributing to Simple Interest Calculator
+# Contributor Covenant Code of Conduct
 
-Thank you for considering a contribution. This document outlines the process
-for submitting changes to this project.
+## Our Pledge
 
-## Code of Conduct
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
 
-This project and everyone participating in it is governed by our Code of
-Conduct. By participating, you are expected to uphold this code. Please report
-unacceptable behavior to the project maintainers.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-## How Can I Contribute
+## Our Standards
 
-All contributions, bug reports, bug fixes, documentation improvements,
-enhancements, and ideas are welcome.
+Examples of behavior that contributes to a positive environment for our community include:
 
-### Reporting Bugs
+- Demonstrating empathy and kindness toward other people
+- Being respectful of differing opinions, viewpoints, and experiences
+- Giving and gracefully accepting constructive feedback
+- Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+- Focusing on what is best not just for us as individuals, but for the overall community
 
-Before creating a bug report, please check the existing issues to avoid
-duplicates. When filing a bug, include:
+Examples of unacceptable behavior include:
 
-- A clear and descriptive title
-- Steps to reproduce the issue
-- Expected versus actual behavior
-- Your environment (operating system, Bash version)
+- The use of sexualized language or imagery, and sexual attention or advances of any kind
+- Trolling, insulting or derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others' private information without their explicit permission
+- Other conduct which could reasonably be considered inappropriate in a professional setting
 
-### Suggesting Enhancements
+## Enforcement Responsibilities
 
-Enhancement suggestions are tracked as GitHub issues. When submitting one,
-please include:
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-- A clear and descriptive title
-- A detailed description of the proposed enhancement
-- Any relevant examples or references
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct.
 
-### Pull Requests
+## Scope
 
-1. Fork the repository.
-2. Create a feature branch:
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
 
-       git checkout -b feature/my-new-feature
+## Enforcement
 
-3. Commit your changes with a clear message:
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement.
 
-       git commit -m "Add: brief description of change"
+All complaints will be reviewed and investigated promptly and fairly.
 
-4. Push to your fork:
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
-       git push origin feature/my-new-feature
+## Enforcement Guidelines
 
-5. Open a pull request against the main branch.
+Community leaders will follow appropriate Community Impact Guidelines in determining the consequences for actions that violate this Code of Conduct.
 
-### Commit Message Convention
+## Attribution
 
-This project follows a lightweight convention:
-
-| Prefix      | Purpose                            |
-|-------------|------------------------------------|
-| Add:        | New feature or file                |
-| Fix:        | Bug fix                            |
-| Docs:       | Documentation only                 |
-| Refactor:   | Code change without behavior fix   |
-| Test:       | Adding or updating tests           |
-
-## Style Guide
-
-- Use two-space indentation in shell scripts
-- Quote variables: "$variable"
-- Keep functions small and focused
-- Comment non-obvious logic
-
-## Thank You
-
-Your time and effort are genuinely appreciated. Every contribution, no matter
-how small, helps make this project better.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
